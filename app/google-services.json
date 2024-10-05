@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "878438442449",
+    "project_id": "ormwmalv8-abramusic",
+    "storage_bucket": "ormwmalv8-abramusic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878438442449:android:fd563eccf001400cf8ecf0",
+        "android_client_info": {
+          "package_name": "hr.ferit.ivanabramusic.lolquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878438442449-20ih1h22hpd5d4pmj5f15ih2gokq6sv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878438442449-20ih1h22hpd5d4pmj5f15ih2gokq6sv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878438442449:android:65d6090ff170b6e9f8ecf0",
+        "android_client_info": {
+          "package_name": "hr.ferit.ivanabramusic.lv_8_primjer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878438442449-20ih1h22hpd5d4pmj5f15ih2gokq6sv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878438442449-20ih1h22hpd5d4pmj5f15ih2gokq6sv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

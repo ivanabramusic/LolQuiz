@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Lol Quiz</string>
+    <string name="easy_difficulty">EASY</string>
+    <string name="medium_difficulty">MEDIUM</string>
+    <string name="hard_difficulty">HARD</string>
+    <string name="title">LOL CHAMPION QUIZ</string>
+    <string name="play_button">PLAY</string>
+    <string name="highscores_button">HIGHSCORES</string>
+    <string name="champ_blue_essence">Blue essence: </string>
+    <string name="champ_hp">Health: </string>
+    <string name="champ_resource">Resource: </string>
+    <string name="champ_attDamage">Attack damage: </string>
+    <string name="champ_range">Range: </string>
+    <string name="champ_release_date">Release date: </string>
+    <string name="champ_attributes">Attributes: </string>
+    <string name="guess_button">GUESS</string>
+    <string name="score">Score:</string>
+    <string name="end_score">Your score is: </string>
+    <string name="enter_your_name_button">SAVE</string>
+    <string name="highscores">HIGHSCORES</string>
+    <string name="table_name">NAME</string>
+    <string name="table_score">SCORE</string>
+    <string name="back_button">BACK</string>
+    <string name="delete_button">DELETE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
